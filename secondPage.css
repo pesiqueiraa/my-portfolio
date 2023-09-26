@@ -84,3 +84,60 @@ a:hover {
     border-radius: inherit;
     background-color: var(--main-color);
 }
+
+
+@media (max-width: 1700px) {
+    
+}
+
+@media (max-width: 1580px) {
+    
+    .container h1 {
+        font-size: 2.5rem;
+    }
+    
+    .container h2 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1395px) {
+    
+    .container h1 {
+        font-size: 2.0rem;
+    }
+    
+    .container h2 {
+        font-size: 15px;
+    }
+
+    .circle {
+        left: -60vmin;
+        top: -60vmin;
+    }
+
+    .circle::after {
+        right: -60vmin;
+        bottom: -60vmin;
+    }
+}
+
+@media (max-width: 690px) {
+    .circle {
+        left: -45vmin;
+        top: -45vmin;
+    }
+
+    .circle::after {
+        right: -45vmin;
+        bottom: -45vmin;
+    }
+
+    .container h1 {
+        font-size: 1.4rem;
+    }
+    
+    .container h2 {
+        font-size: 16px;
+    }
+}
