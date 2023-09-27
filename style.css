@@ -237,6 +237,7 @@ header.sticky {
     margin-bottom: 20px;
 }
 
+
 .exp-area {
     margin-bottom: 50px;
     text-decoration: none;
@@ -258,8 +259,11 @@ header.sticky {
     text-decoration: none;
 }
 
-.exp span {
-    color: var(--other-color); 
+.exp a {
+    color: var(--other-color);
+    font-size: var(--p-font);
+    font-weight: 400;
+    margin-left: 8px;
     text-decoration: none;
 }
 
