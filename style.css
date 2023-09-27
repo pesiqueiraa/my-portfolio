@@ -471,27 +471,27 @@ form .send-btn:hover {
 }
 
 .skill-bar .bar .html {
-    width: 65%;
+    width: 55%;
     animation: html 4s;
 }
 
 .skill-bar .bar .css {
-    width: 65%;
+    width: 55%;
     animation: css 4s;
 }
 
 .skill-bar .bar .javascript {
-    width: 50%;
+    width: 40%;
     animation: javascript 4s;
 }
 
 .skill-bar .bar .node {
-    width: 35%;
+    width: 20%;
     animation: node 4s;
 }
 
 .skill-bar .bar .react {
-    width: 25%;
+    width: 15%;
     animation: react 4s;
 }
 
@@ -580,7 +580,7 @@ form .send-btn:hover {
     }
 
     100% {
-        width: 65%;
+        width: 55%;
     }
 }
 
@@ -590,7 +590,7 @@ form .send-btn:hover {
     }
 
     100% {
-        width: 65%;
+        width: 55%;
     }
 }
 
@@ -600,7 +600,7 @@ form .send-btn:hover {
     }
 
     100% {
-        width: 50%;
+        width: 40%;
     }
 }
 
@@ -610,7 +610,7 @@ form .send-btn:hover {
     }
 
     100% {
-        width: 35%;
+        width: 20%;
     }
 }
 
@@ -620,7 +620,7 @@ form .send-btn:hover {
     }
 
     100% {
-        width: 25%;
+        width: 15%;
     }
 }
 
