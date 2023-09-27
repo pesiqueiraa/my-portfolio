@@ -239,8 +239,11 @@ header.sticky {
 
 
 
+
+
 .exp-area {
     margin-bottom: 50px;
+    text-decoration: none;
 }
 
 .exp-area p {
@@ -256,6 +259,7 @@ header.sticky {
     font-size: var(--p-font);
     font-weight: 400;
     margin-left: 8px;
+    text-decoration: none;
 }
 
 .center-text {
